@@ -33,7 +33,7 @@
 ## UNIT 2: DESIGNING AND PLANNING CONTENT
 
 * [Designing and planning content](unit-2-designing-and-planning-content/designing-and-planning-content.md)
-  * [Exercuse 2.1: Compare content types](unit-2-designing-and-planning-content/Exercise-2-1-Compare-content-types-out-of-the-box.md)
+  * [Exercise 2.1: Compare content types](unit-2-designing-and-planning-content/Exercise-2-1-Compare-content-types-out-of-the-box.md)
 * [Planning your site structure](unit-2-designing-and-planning-content/2.2-planning-your-site-structure.md)
 * [Planning data entry and display](unit-2-designing-and-planning-content/planning-data-entry-and-display.md)
 * [Discussion](unit-2-designing-and-planning-content/discussion.md)
